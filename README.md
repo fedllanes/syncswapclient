@@ -24,7 +24,7 @@ To install SyncSwapClient, you can use pip.
 ```
 
 Quick Start
-Here's how to start using it. More examples can be seen in the Example_usage.ipybn jupyter notebook.
+Here's how to start using it. More examples can be seen in the Usage_example.ipybn jupyter notebook.
 
 ```python
 from web3 import Web3
