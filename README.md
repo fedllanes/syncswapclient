@@ -10,10 +10,10 @@ Adding to liquidity pool is a feature that will be added in the future.
 
 
 # Features
-Token swap execution via the SyncSwap DEX router.
-Automatic gas estimation and allowance verification.
-Support for ERC-20 token swaps.
-Easy integration with existing Python projects
+* Token swap execution via the SyncSwap DEX router.
+* Automatic gas estimation and allowance verification.
+* Support for ERC-20 token swaps.
+* Easy integration with existing Python projects
 
 
 # Installation
