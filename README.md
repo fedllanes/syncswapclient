@@ -11,16 +11,14 @@ Easy integration with existing Python projects
 
 
 # Installation
-To install SyncSwapClient, clone this repository and install the required dependencies:
+To install SyncSwapClient, you can use pip.
 
 ```bash
-git clone https://github.com/yourgithub/SyncSwapClient.git
-cd SyncSwapClient
-pip install -r requirements.txt
+ pip install git+https://github.com/fedllanes/syncswapclient.git
 ```
 
 Quick Start
-Here's a quick example to get you started with SyncSwapClient:
+Here's how to start using it:
 
 ```python
 from web3 import Web3
