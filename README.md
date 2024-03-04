@@ -1,7 +1,7 @@
 # SyncSwapClient
 
 
-SyncSwapClient is a Python library designed to facilitate interactions with the SyncSwap decentralized exchange (DEX) on the Ethereum blockchain. It abstracts the complexities of direct smart contract interactions, allowing users to easily execute token swaps, manage allowances, and handle transaction preparations.
+SyncSwapClient is a Python library designed to facilitate interactions with the SyncSwap decentralized exchange (DEX) on zkSync. It abstracts the complexities of direct smart contract interactions, allowing users to easily execute token swaps, manage allowances, and handle transaction preparations.
 
 # Warnings.
 
