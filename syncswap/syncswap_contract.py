@@ -111,11 +111,10 @@ class SyncSwapContract:
         )
 
         steps = [token_pair.token_pair_address,  # this is the pair address
-                 "",  # this will be replaced with the encoded data
+                 swap_data,
                  ZERO_ADDRESS,  # zero address
                  b"",
                  True]
-        steps[1] = swap_data
 
         paths = [(
             [
